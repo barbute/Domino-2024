@@ -1,3 +1,5 @@
 package frc.robot.subsystems.arm;
 
-public class Arm {}
+public class Arm extends SubsyemBase {
+    
+}
